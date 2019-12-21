@@ -1,0 +1,145 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+    <style>
+        .y{
+            width:150px;
+            height:180px;
+            padding:30px;
+            text-indent: -9000px;
+            margin:3px;
+        }
+        #y2018{
+            background: url("{% static 'images\FIFA18.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y2014{
+            background: url("{% static 'images\FIFA14.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y2010{
+            background: url("{% static 'images\FIFA10.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y2006{
+            background: url("{% static 'images\FIFA06.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y2002{
+            background: url("{% static 'images\FIFA02.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1998{
+            background: url("{% static 'images\FIFA98.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1994{
+            background: url("{% static 'images\FIFA94.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1990{
+            background: url("{% static 'images\FIFA90.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1986{
+            background: url("{% static 'images\FIFA86.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1982{
+            background: url("{% static 'images\FIFA82.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1978{
+            background: url("{% static 'images\FIFA78.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1974{
+            background: url("{% static 'images\FIFA74.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1970{
+            background: url("{% static 'images\FIFA70.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1966{
+            background: url("{% static 'images\FIFA66.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1962{
+            background: url("{% static 'images\FIFA62.jpg' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1958{
+            background: url("{% static 'images\FIFA58.jpg' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1954{
+            background: url("{% static 'images\FIFA54.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1950{
+            background: url("{% static 'images\FIFA50.jpg' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1938{
+            background: url("{% static 'images\FIFA38.png' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1934{
+            background: url("{% static 'images\FIFA34.jpg' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+        #y1930{
+            background: url("{% static 'images\FIFA30.jpg' %}") no-repeat;
+            background-size: 140px 170px;
+        }
+    </style>
+
+
+    <h1 style="text-align:center;padding:10px;background:rgba(0,0,0,0.8);color:#fff;font-weight:bold;border-radius:10px" >FIFA WORLD CUP RECORDS</h1>
+    <div id="session">
+        <form style="width:100%;" action="" method="POST">
+            {% csrf_token %}
+            {% for i in Session %}
+                <input id="y{{ i }}" class="y" type="Submit" name="Submit" value="{{ i }}"/>
+            {% endfor %}
+        </form> 
+    </div>
+    <h1 id="iWantToScrollHere" name="iWantToScrollHere" style="text-indent: -9999px;padding-top:10px">Abbas</h1>
+    {% if s == "None" %}
+        <h1 style="text-align:center;padding:10px;background:rgba(0,0,0,0.8);color:#fff;font-weight:bold;border-radius:10px" >Please Select Session</h1>
+    {% else %}
+    <h1 style="text-align:center;padding:10px;background:rgba(0,0,0,0.8);color:#fff;font-weight:bold;border-radius:10px" >{{ s }}</h1>
+    {% endif %}
+    <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th  scope="row">Round</td>
+                    <th  scope="row" colspan="2">Home Team</td>
+                    <th  scope="row">Score</td>
+                    <th  scope="row" colspan="2">Away Team</td>
+                    <th  scope="row">Ground</td>
+                </tr>
+            </thead>
+        {% for x in data %}
+                <tr>
+                    <td>{{ x.Group }}</td>
+                    <td>{{ x.HomeTeam }}</td>
+                    <td><img style="width:50px;" src="{{ x.HomeImage }}" alt="{{ x.HomeTeam }}"></td>
+                    <td>{{ x.Score }}</td>
+                    <td><img style="width:50px;" src="{{ x.AwayImage }}" alt="{{ x.AwayTeam }}"></td>
+                    <td>{{ x.AwayTeam }}</td>
+                    <td>{{ x.Venue }}</td>
+                </tr>
+        {% endfor %}    
+    </table>
+
+    <script>
+        function Scrolldown() {
+           window.location.hash = '#iWantToScrollHere';
+        }
+
+        window.onload = Scrolldown;
+    </script>
+{% endblock content %}  

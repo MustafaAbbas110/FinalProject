@@ -1,0 +1,143 @@
+
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %} 
+    <form action="" method="POST">
+        {% csrf_token %}
+        {% for x in eDate %}
+            <input onclick="datePicker('{{ x }}')" type="Submit" name="Submit" value="{{ x }}"/>
+        {% endfor %}
+    </form> 
+	<h2 style="text-align:center;padding:10px;background:rgba(0,0,0,0.8);color:#fff;font-weight:bold;border-radius:10px">{{ currentDate }}</h2>
+    <table style="width:100%" class="DailyFixture">
+        {% for x in Tourn %}
+            <tr onclick="myFunction('{{ x }}')">   
+                <td style="text-align: center;" class="heading" colspan="9">{{ x }}</td>
+            </tr>
+            {% for i in Data %}
+                {% if x == i.tournment %}
+                    <tr onclick="pRec('{{ forloop.counter }}')" class="{{ x }} dynamic w3-center w3-animate-top">
+                        <td style="width:12%;">{{ i.HomeTeam }}</td>
+                        <td style="width:3%;"><img style="width:30px;" src="{{ i.HomeImage }}"/></td>
+                        <td style="width:5%;">{{ i.status }}</td>
+                        <td style="width:3%;"><img style="width:30px;" src="{{ i.AwayImage }}"/></td>
+                        <td style="width:12%;">{{ i.AwayTeam }}</td>
+                        <td style="width:3%;">{{ i.Time }}</td>
+                        <td style="width:15%;">{{ i.Ground }}</td>
+                        <td style="width:5%;">{{ i.Attendence }}</td>
+                    </tr>
+                {% endif%}
+            {% endfor %}
+        {% endfor %}
+    </table>
+
+	<div hidden id="black" onclick="blackdiv()">
+		{% for t in number %}
+			<table class="p{{ t }} dynamic w3-container w3-center w3-animate-left">
+					<tr style="font-weight: bold;" >
+							<th colspan="6">Last Ten Games</th>
+							<th>Date</th>
+							<th>Tournament</th>
+					</tr>
+				{% for j in record %}
+					{% if t == j.Number %}
+						
+						<tr style="border: 1px solid black;">
+							<td class="r" style="width:1%;font-weight: bold;">{{ j.Result }}</td>
+							<td style="width:7%;">{{ j.HomeTeam }}</td>
+							<td style="width:3%;"><img style="width:25px" src={{ j.HImage }}/></td>
+							<td style="width:1%;font-weight:bold" >{{ j.Goal }}</td>
+							<td style="width:3%;"><img style="width:30px" src={{ j.AImage }}/></td>
+							<td style="width:7%;">{{ j.AwayTeam }}</td>
+							<td style="width:3%;">{{ j.Date }}</td>
+							<td style="width:10%;">{{ j.Tournament }}</td>
+						</tr>
+					{% endif %}			
+				{% endfor %}
+			</table>
+		{% endfor %}
+	</div>
+
+
+
+    <script type="text/javascript">
+
+		function myFunction(x) {
+  			value = document.querySelectorAll("tr."+x);
+
+            allValue = document.querySelectorAll(".dynamic");
+            
+            for(let i =0;i<allValue.length;i++){
+                allValue[i].hidden = true;
+            }
+            show(value);
+            
+			
+		}
+
+		function pRec(y) {
+			console.log(y)
+			prevRec = document.querySelector("table.p"+y);
+			prevRec.hidden = false;
+			blackDiv = document.querySelector("#black");
+			blackDiv.hidden = false;
+		}
+
+		function hide(x){
+			for(let i =0;i<x.length;i++){
+  				x[i].hidden=true;
+  			}
+		} 
+
+		function show(x){
+			for(let i =0;i<x.length;i++){
+  				x[i].hidden=false;
+  			}
+		} 
+	</script>
+
+
+	<script type="text/javascript">
+	
+	
+		value = document.querySelectorAll(".dynamic");
+		for(let i =0;i<value.length;i++){
+	  		value[i].hidden = true;
+	  	}
+
+        for(let i =0;i<5;i++){
+	  		value[i].hidden = false;
+	  	}
+	  	
+  		
+		blackDiv = document.querySelector("#black");
+		blackDiv.hidden = true;
+
+		function blackdiv(){
+			blackDiv = document.querySelector("#black");
+			blackDiv.hidden = true;
+
+			value = document.querySelectorAll("table.dynamic");
+			for(let i =0;i<value.length;i++){
+				value[i].hidden = true;
+	  		}
+		} 
+
+		value = document.querySelectorAll("td.r");
+	
+		for(let i =0;i<value.length;i++){
+	  		let text = value[i].textContent;
+			if(text == "L"){
+				value[i].style.color = "red";
+			}else if(text == "W"){
+				value[i].style.color = "green";
+			}else{
+				value[i].style.color = "gray";
+			}
+	  	}
+
+
+	</script>
+
+{% endblock content %} 
