@@ -95,7 +95,11 @@
             background-size: 140px 170px;
         }
     </style>
-
+	<div id="black" onclick="blackdiv()">
+		<div style="width:70%;margin:auto;background:rgba(255,255,255,0.9);border-radius:0 0 10px 10px;box-shadow:2px 2px 2px #000">
+			<canvas id="myChart"></canvas>
+		</div>
+	</div>
 
     <h1 style="text-align:center;padding:10px;background:rgba(0,0,0,0.8);color:#fff;font-weight:bold;border-radius:10px" >FIFA WORLD CUP RECORDS</h1>
     <div id="session">
@@ -142,4 +146,65 @@
 
         window.onload = Scrolldown;
     </script>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.js"></script>
+	<script>
+	var x = []
+	x.push( "{{winner.0}}" );
+	x.push( "{{winner.1}}" );
+	x.push( "{{winner.2}}" );
+	x.push( "{{winner.3}}" );
+	x.push( "{{winner.4}}" );
+	x.push( "{{winner.5}}" );
+	x.push( "{{winner.6}}" );
+	x.push( "{{winner.7}}" );
+	var y = {{ goals }};
+	var ctx = document.getElementById('myChart').getContext('2d');
+	var myChart = new Chart(ctx, {
+		type: 'bar',
+		data: {
+			labels: x,
+			datasets: [{
+				label: ' {{ s }} FIFA WorldCup Winners',
+				data: y,	
+				backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(255, 206, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(255, 159, 64, 0.2)',
+				'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)'
+				],
+				borderColor: [
+					'rgba(255, 99, 132, 1)',
+					'rgba(54, 162, 235, 1)',
+					'rgba(255, 206, 86, 1)',
+					'rgba(75, 192, 192, 1)',
+					'rgba(153, 102, 255, 1)',
+					'rgba(255, 159, 64, 1)',
+					'rgba(255, 99, 132, 1)',
+					'rgba(54, 162, 235, 1)'
+				],
+				borderWidth: 1
+			}]
+		},
+		options: {
+			scales: {
+				yAxes: [{
+					ticks: {
+						beginAtZero: true
+					}
+				}]
+			}
+		}
+	});
+	
+	function blackdiv(){
+			blackDiv = document.querySelector("#black");
+			blackDiv.hidden = true;
+		}
+	</script>
+	
 {% endblock content %}  

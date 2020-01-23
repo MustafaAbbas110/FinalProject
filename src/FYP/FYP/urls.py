@@ -20,4 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('fixture/',include("fixture.urls")),
     path('Records/',include("fifaRecords.urls")),
+	path('PlayersRecord/',include("PlayersRecord.urls")),
 ]

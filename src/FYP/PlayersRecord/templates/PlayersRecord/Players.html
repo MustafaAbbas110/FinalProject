@@ -1,0 +1,290 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+	<div id="black" onclick="blackdiv()">
+		<div style="width:70%;margin:auto;background:rgba(255,255,255,0.9);border-radius:0 0 10px 10px;box-shadow:2px 2px 2px #000">
+			<canvas id="myChart"></canvas>
+		</div>
+	</div>
+	
+	<div hidden id="black" class="b" onclick="bdiv()">
+		<div class="blackbody" style="width:70%;height:1200px;margin:0 auto;background:rgba(255,255,255,0.9);border-radius:0 0 10px 10px;box-shadow:2px 2px 2px #000">
+			<h2 class="Pname" style="text-align:center;padding:5px;background:rgba(0,0,0,0.8);color:#fff;font-weight:bold;border-radius:10px;width:50%;display:inline-block;position:relative;left:270px;" ></h2>
+			<br>
+			<ul style="position:relative;left:270px;top:0px;">
+				<li>
+					<strong class="C"></strong>
+				</li>
+				<li>
+					<strong class="MP"></strong>
+				</li>
+				<li>
+					<strong class="G"></strong>
+				</li>
+				<li>
+					<strong class="A"></strong>
+				</li>
+				<li>
+					<strong class="TP"></strong>
+				</li>
+				<li>
+					<strong class="YC"></strong>
+				</li>
+				<li>
+					<strong class="RC"></strong>
+				</li>
+			</ul>
+
+		</div>
+	</div>
+	
+	<h1 style="margin-top:20px;text-align:center;padding:10px;background:rgba(0,0,0,0.8);color:#fff;font-weight:bold;border-radius:10px" >FIFA WORLD CUP 2018 PLAYERS RECORDS</h1>
+  
+	<div id="session">
+        <form style="max-width:900px;margin:0 auto;" action="" method="POST">
+            {% csrf_token %}
+            {% for i in country %}
+                <input style="width:100px;margin:3px;" id="y{{ i }}" class="y" type="submit" src="{{i}}" name="Submit" value="{{ i }}"/>
+            {% endfor %}
+        </form> 
+    </div>
+	
+	{% for i in dataCountry %}
+		{% if forloop.counter == 1 %}
+			<h2 style="text-align:center;padding:10px;background:rgba(0,0,0,0.8);color:#fff;font-weight:bold;border-radius:10px" >{{ s }}<img style="width:60px;margin:10px;" src="{{ i.playerFlag }}"></img></h2>
+		{% endif %}
+	{% endfor %}
+	
+	{% for i in dataCountry %}
+		<div style="display:inline-block;font-size:12px;width:13%;margin:5px;">
+			<img style="width:100%;align:center;" src="{{ i.playerImage }}"></img></br>
+			<input style="width:100%;;margin:3px;" id="y{{ i.playerName }}" class="y" type="submit" src="{{i.playerName}}" name="Submit" value="'{{ i.playerName }}'" onclick="findPlayer('{{ i.playerName }}')"/>
+		</div>
+	{% endfor %}
+
+	
+	
+	
+	<script>
+	var flag = false;
+	
+		function receive(PI,CI,N,C,G,A,MP,TP,YC,RC){
+		
+			if(flag){
+				var element = document.querySelector('.blackbody canvas');
+				element.id = "deleted";
+			}
+			console.log(N);
+			console.log(C);
+			console.log(G);
+			console.log(TP);
+			
+			<!-- This is Canvas -->
+			
+			var x = []
+			x.push( "Match Played" );
+			x.push( "Gaols" );
+			x.push( "Attempts" );
+			x.push( "Yellow Cards" );
+			x.push( "Red Cards" );
+
+			var y = []
+			y.push(MP);
+			y.push(G);
+			y.push(A);
+			y.push(YC);
+			y.push(RC);
+			
+			var canvas = document.createElement('canvas'); 
+            document.querySelector('.blackbody').appendChild(canvas); 
+			canvas.id = "myChartPlayer";
+			canvas.style.position="absolute";
+			canvas.height=120;
+			
+			
+			var ctx = document.getElementById('myChartPlayer').getContext('2d');
+			var myChart = new Chart(ctx, {
+				type: 'bar',
+				data: {
+					labels: x,
+					datasets: [{
+						label: N,
+						data: y,	
+						backgroundColor: [
+						'rgba(255, 99, 132, 0.2)',
+						'rgba(54, 162, 235, 0.2)',
+						'rgba(255, 206, 86, 0.2)',
+						'rgba(75, 192, 192, 0.2)',
+						'rgba(153, 102, 255, 0.2)',
+						'rgba(255, 159, 64, 0.2)',
+						'rgba(255, 99, 132, 0.2)',
+						'rgba(54, 162, 235, 0.2)'
+						],
+						borderColor: [
+							'rgba(255, 99, 132, 1)',
+							'rgba(54, 162, 235, 1)',
+							'rgba(255, 206, 86, 1)',
+							'rgba(75, 192, 192, 1)',
+							'rgba(153, 102, 255, 1)',
+							'rgba(255, 159, 64, 1)',
+							'rgba(255, 99, 132, 1)',
+							'rgba(54, 162, 235, 1)'
+						],
+						borderWidth: 1
+					}]
+				},
+				options: {
+					scales: {
+						yAxes: [{
+							ticks: {
+								beginAtZero: true
+							}
+						}]
+					}
+				}
+			});
+			
+			
+			<!-- Canvas End -->
+			
+			
+			if(flag){
+				var element = document.querySelector('.blackbody img');
+				element.parentNode.removeChild(element);
+				var element = document.querySelector('.blackbody #deleted');
+				element.parentNode.removeChild(element);
+			}
+			
+			
+			var img = document.createElement('img'); 
+			img.src = PI;
+            document.querySelector('.blackbody').appendChild(img); 
+			
+			
+			
+			
+			img.style.width="200px";
+			img.style.margin="10px";
+			img.style.boxShadow="2px 2px 2px black";
+			img.style.borderRadius="10px";
+			img.style.position="relative";
+			img.style.top="-230px";
+			img.style.left="30px";
+			
+            var Pname = document.querySelector('.Pname');
+			Pname.innerHTML= N;
+			var Pname = document.querySelector('.C');
+			Pname.innerHTML= "Country: " + C;
+			var Pname = document.querySelector('.G');
+			Pname.innerHTML= "Gaols: " + G;
+			var Pname = document.querySelector('.A');
+			Pname.innerHTML= "Attempts: " +  A;
+			var Pname = document.querySelector('.MP');
+			Pname.innerHTML= "Match Played: " + MP;
+			var Pname = document.querySelector('.TP');
+			Pname.innerHTML= "Total Passes: " +  TP;
+			var Pname = document.querySelector('.YC');
+			Pname.innerHTML= "Yellow Cards: " +  YC;
+			var Pname = document.querySelector('.RC');
+			Pname.innerHTML= "Red Cards: " + RC;
+			
+			
+			flag = true;
+			
+		}
+	
+		function findPlayer(player){
+			
+			
+			
+			blackDiv = document.querySelector(".b");
+			blackDiv.hidden = false;
+			{% for i in dataCountry %}
+				if("{{i.playerName}}" == player){
+					var Pimage = "{{ i.playerImage }}";
+					var Cimage = "{{i.playerFlag}}" ;
+					var name = "{{i.playerName}}";
+					var country = "{{i.country}}";
+					var Goals = "{{i.goalScored}}";
+					var Attempts = "{{i.attempts}}";
+					var matchPlayed = "{{i.matchPlayed}}"
+					var TotalPasses = "{{i.totalPasses}}";
+					var YellowCard = "{{i.yellowCards}}";
+					var RedCard = "{{i.RedCards}}";
+					receive(Pimage,Cimage,name,country,Goals,Attempts,matchPlayed,TotalPasses,YellowCard,RedCard);
+				}
+			{% endfor %}
+			
+		}
+	</script>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.js"></script>
+	<script>
+	var x = []
+	x.push( "{{players.0}}" );
+	x.push( "{{players.1}}" );
+	x.push( "{{players.2}}" );
+	x.push( "{{players.3}}" );
+	x.push( "{{players.4}}" );
+
+	var y = []
+	y.push( "{{goals.0}}" );
+	y.push( "{{goals.1}}" );
+	y.push( "{{goals.2}}" );
+	y.push( "{{goals.3}}" );
+	y.push( "{{goals.4}}" );
+
+	var ctx = document.getElementById('myChart').getContext('2d');
+	var myChart = new Chart(ctx, {
+		type: 'bar',
+		data: {
+			labels: x,
+			datasets: [{
+				label: 'Highest Goal Score in {{ s }}',
+				data: y,	
+				backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(255, 206, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(255, 159, 64, 0.2)',
+				'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)'
+				],
+				borderColor: [
+					'rgba(255, 99, 132, 1)',
+					'rgba(54, 162, 235, 1)',
+					'rgba(255, 206, 86, 1)',
+					'rgba(75, 192, 192, 1)',
+					'rgba(153, 102, 255, 1)',
+					'rgba(255, 159, 64, 1)',
+					'rgba(255, 99, 132, 1)',
+					'rgba(54, 162, 235, 1)'
+				],
+				borderWidth: 1
+			}]
+		},
+		options: {
+			scales: {
+				yAxes: [{
+					ticks: {
+						beginAtZero: true
+					}
+				}]
+			}
+		}
+	});
+	
+	function blackdiv(){
+			blackDiv = document.querySelector("#black");
+			blackDiv.hidden = true;
+		}
+		
+	function bdiv(){
+			blackDiv = document.querySelector(".b");
+			blackDiv.hidden = true;
+		}
+	</script>
+{% endblock content %}  

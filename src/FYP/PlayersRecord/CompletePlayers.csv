@@ -1,0 +1,601 @@
+player Image,player flag,player name,country,match played,goal Scored,Attempts,Total Passes,Red Cards,Yellow Cards
+https://api.fifa.com/api/v1/picture/players/2018fwc/398422_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Franco ARMANI,Argentina,2,0,0,53,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/181440_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Wilfredo CABALLERO,Argentina,2,0,0,54,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/266796_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Gabriel MERCADO,Argentina,3,1,1,166,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/308322_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Nicolas TAGLIAFICO,Argentina,4,0,3,191,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/266784_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Federico FAZIO,Argentina,1,0,0,27,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401204_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Marcos ACUNA,Argentina,1,0,1,34,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/182372_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Javier MASCHERANO,Argentina,4,0,1,345,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/318688_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Marcos ROJO,Argentina,3,1,2,156,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/310116_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Nicolas OTAMENDI,Argentina,4,0,4,290,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/268992_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Eduardo SALVIO,Argentina,2,0,1,86,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/200133_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Lucas BIGLIA,Argentina,1,0,2,52,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/266790_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Ever BANEGA,Argentina,3,0,3,208,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/266800_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Angel DI MARIA,Argentina,3,1,3,80,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411433_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Maximiliano MEZA,Argentina,4,0,3,104,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/316997_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Enzo PEREZ,Argentina,3,0,1,116,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/371828_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Cristian PAVON,Argentina,4,0,1,70,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/271550_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Gonzalo HIGUAIN,Argentina,3,0,3,38,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/229397_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Lionel MESSI,Argentina,4,1,17,201,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/228528_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Sergio AGUERO,Argentina,4,2,6,51,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/392905_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/arg,Paulo DYBALA,Argentina,1,0,1,13,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/339117_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/aus,Mathew RYAN,Australia,3,0,0,119,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/197411_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/aus,Mark MILLIGAN,Australia,3,0,0,245,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/349342_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/aus,Aziz BEHICH,Australia,3,0,2,156,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/397717_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/aus,Joshua RISDON,Australia,3,0,1,127,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/339118_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/aus,Trent SAINSBURY,Australia,3,0,2,183,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/312252_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/aus,Aaron MOOY,Australia,3,0,3,197,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/197514_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/aus,Mile JEDINAK,Australia,3,2,6,170,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/355775_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/aus,Jackson IRVINE,Australia,3,0,0,16,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/367641_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/aus,Tom ROGIC,Australia,3,0,5,61,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/213001_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/aus,Tim CAHILL,Australia,1,0,1,8,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/321697_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/aus,Mathew LECKIE,Australia,3,0,9,76,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/379785_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/aus,Tomi JURIC,Australia,3,0,0,19,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/229043_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/aus,Robbie KRUSE,Australia,3,0,1,47,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411241_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/aus,Andrew NABBOUT,Australia,2,0,0,17,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/389503_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/aus,Daniel ARZANI,Australia,3,0,2,23,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/358106_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Thibaut COURTOIS,Belgium,7,0,0,231,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/290864_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Toby ALDERWEIRELD,Belgium,6,0,5,453,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/216880_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Thomas VERMAELEN,Belgium,3,0,0,76,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/216004_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Vincent KOMPANY,Belgium,5,0,4,288,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/290904_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Jan VERTONGHEN,Belgium,6,1,2,321,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/358122_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Thomas MEUNIER,Belgium,5,1,6,203,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/358118_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Dedryck BOYATA,Belgium,3,0,1,193,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/402015_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Leander DENDONCKER,Belgium,1,0,0,72,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/290821_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Axel WITSEL,Belgium,6,0,6,332,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/358120_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Kevin DE BRUYNE,Belgium,6,1,13,344,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/290902_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Marouane FELLAINI,Belgium,5,1,5,133,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/398653_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Yannick CARRASCO,Belgium,4,0,6,75,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/378834_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Thorgan HAZARD,Belgium,2,0,3,50,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401444_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Youri TIELEMANS,Belgium,4,0,3,115,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/290825_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Moussa DEMBELE,Belgium,4,0,0,115,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/358108_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Nacer CHADLI,Belgium,6,1,3,167,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/358112_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Romelu LUKAKU,Belgium,6,4,13,97,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/273996_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Eden HAZARD,Belgium,6,3,17,267,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/358114_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Dries MERTENS,Belgium,6,1,7,122,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/379910_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Adnan JANUZAJ,Belgium,1,1,4,20,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/378835_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bel,Michy BATSHUAYI,Belgium,3,1,8,24,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/308370_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,ALISSON,Brazil,5,0,0,88,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/289964_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,THIAGO SILVA,Brazil,5,1,6,303,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/289958_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,MIRANDA,Brazil,5,0,1,259,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/217161_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,FILIPE LUIS,Brazil,2,0,1,115,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/218284_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,MARCELO,Brazil,4,0,4,271,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/332946_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,MARQUINHOS,Brazil,1,0,0,3,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/335656_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,DANILO,Brazil,1,0,0,53,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/266774_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,FAGNER,Brazil,4,0,0,205,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/308386_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,CASEMIRO,Brazil,4,0,4,259,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/218292_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,RENATO AUGUSTO,Brazil,3,1,3,42,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/308366_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,PHILIPPE COUTINHO,Brazil,5,2,22,322,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/362727_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,PAULINHO,Brazil,5,1,6,160,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/208016_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,FERNANDINHO,Brazil,5,0,3,123,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/218306_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,WILLIAN,Brazil,5,0,5,180,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/305070_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,DOUGLAS COSTA,Brazil,2,0,4,48,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/386559_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,GABRIEL JESUS,Brazil,5,0,10,92,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/314197_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,NEYMAR,Brazil,5,2,27,276,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/344547_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/bra,ROBERTO FIRMINO,Brazil,4,1,7,40,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/228686_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,David OSPINA,Colombia,4,0,0,103,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/200209_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Cristian ZAPATA,Colombia,1,0,0,1,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/228688_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Oscar MURILLO,Colombia,1,0,1,41,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/315614_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Santiago ARIAS,Colombia,4,0,1,174,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/395552_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Yerry MINA,Colombia,3,3,3,157,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/394500_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Johan MOJICA,Colombia,4,0,1,163,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/386013_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Davinson SANCHEZ,Colombia,4,0,2,196,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/394377_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Wilmar BARRIOS,Colombia,3,0,0,127,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/280487_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Carlos SANCHEZ,Colombia,3,0,0,77,1,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/198243_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Abel AGUILAR,Colombia,1,0,0,12,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/269058_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,James RODRIGUEZ,Colombia,3,0,3,97,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/309714_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Juan CUADRADO,Colombia,4,1,6,159,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/398409_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Mateus URIBE,Colombia,3,0,2,84,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/395550_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Jefferson  LERMA,Colombia,4,0,1,83,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/356704_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Juan QUINTERO,Colombia,4,1,8,181,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/349512_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Carlos BACCA,Colombia,3,0,2,26,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/229444_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Radamel FALCAO,Colombia,4,1,8,87,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/339731_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Luis MURIEL,Colombia,2,0,1,25,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/369538_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Miguel BORJA,Colombia,1,0,0,1,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411341_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/col,Jose IZQUIERDO,Colombia,1,0,0,19,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/199175_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Keylor NAVAS,Costa Rica,3,0,0,95,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/339447_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Johnny ACOSTA,Costa Rica,3,0,0,73,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/268821_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Giancarlo GONZALEZ,Costa Rica,3,0,2,83,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/389725_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Ian SMITH,Costa Rica,1,0,0,2,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/312987_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Oscar DUARTE,Costa Rica,2,0,2,62,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/270149_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Bryan OVIEDO,Costa Rica,2,0,3,47,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/339797_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Francisco CALVO,Costa Rica,2,0,1,36,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/307026_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Cristian GAMBOA,Costa Rica,3,0,3,83,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/236536_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Kendall WASTON,Costa Rica,1,1,1,38,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/236530_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Celso BORGES,Costa Rica,3,0,5,123,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/183796_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Christian BOLANOS,Costa Rica,2,0,0,37,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/361029_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Daniel COLINDRES,Costa Rica,2,0,3,33,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/214876_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Bryan RUIZ,Costa Rica,3,0,2,119,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/356986_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Rodney WALLACE,Costa Rica,1,0,0,3,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/183794_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Randall AZOFEIFA,Costa Rica,1,0,0,2,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/307541_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Yeltsin TEJEDA,Costa Rica,1,0,0,5,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/270143_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,David GUZMAN,Costa Rica,3,0,1,118,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/395354_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Johan VENEGAS,Costa Rica,2,0,0,35,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/307529_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Joel CAMPBELL,Costa Rica,2,0,3,35,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/270144_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/crc,Marcos URENA,Costa Rica,2,0,2,20,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/376287_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Lovre KALINIC,Croatia,1,0,0,23,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/299887_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Danijel SUBASIC,Croatia,6,0,0,199,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/336485_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Sime VRSALJKO,Croatia,6,0,6,305,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/357988_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Ivan STRINIC,Croatia,6,0,0,241,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/297373_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Vedran CORLUKA,Croatia,4,0,0,66,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/312432_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Dejan LOVREN,Croatia,7,0,5,374,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/372987_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Tin JEDVAJ,Croatia,1,0,0,37,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/372424_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Duje CALETA-CAR,Croatia,1,0,0,36,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/299896_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Domagoj VIDA,Croatia,6,1,3,309,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/375261_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Josip PIVARIC,Croatia,4,0,2,130,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/296633_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Ivan RAKITIC,Croatia,7,1,17,424,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/339987_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Mateo KOVACIC,Croatia,5,0,4,122,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/241559_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Luka MODRIC,Croatia,7,2,10,523,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/380000_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Marcelo BROZOVIC,Croatia,6,0,4,380,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/402149_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Filip BRADARIC,Croatia,1,0,0,11,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/357991_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Milan BADELJ,Croatia,3,1,2,74,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/359381_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Ivan PERISIC,Croatia,7,3,22,190,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/336472_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Andrej KRAMARIC,Croatia,7,1,10,142,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/375518_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Mario MANDZUKIC,Croatia,6,3,13,168,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/369058_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Ante REBIC,Croatia,6,1,16,126,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/369057_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/cro,Marko PJACA,Croatia,3,0,1,25,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/278388_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Kasper  SCHMEICHEL,Denmark,4,0,0,134,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/309962_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Simon KJAER,Denmark,4,0,1,220,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/365738_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Jonas KNUDSEN,Denmark,1,0,0,31,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401281_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Andreas CHRISTENSEN,Denmark,4,0,0,165,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/318485_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Mathias  JORGENSEN,Denmark,3,1,1,100,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/318477_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Henrik DALSGAARD,Denmark,4,0,0,124,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/395455_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Jens Stryger LARSEN,Denmark,3,0,2,83,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/302550_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Michael KROHN-DEHLI,Denmark,1,0,0,11,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/299421_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,William KVIST,Denmark,1,0,0,19,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/372855_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Thomas DELANEY,Denmark,4,0,4,160,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/321716_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Christian ERIKSEN,Denmark,4,1,12,176,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/405205_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Lukas LERAGER,Denmark,1,0,0,0,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/313907_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Lasse SCHONE,Denmark,3,0,4,116,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/360184_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Nicolai JORGENSEN,Denmark,3,0,4,48,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/372857_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Martin BRAITHWAITE,Denmark,4,0,4,47,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/402096_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Kasper DOLBERG,Denmark,1,0,0,5,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/336131_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Viktor FISCHER,Denmark,1,0,1,8,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/336133_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Yussuf Yurary POULSEN,Denmark,3,1,2,79,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/395448_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Pione SISTO,Denmark,4,0,4,81,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/155050_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,ESSAM ELHADARY,Egypt,1,0,0,26,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/408948_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,MOHAMED ELSHENAWY,Egypt,2,0,0,46,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401838_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,ALI GABR,Egypt,3,0,1,75,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/344640_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,AHMED HEGAZY,Egypt,3,0,0,122,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/303682_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,AHMED FATHI,Egypt,3,0,1,121,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/356053_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,MOHAMED ABDELSHAFY,Egypt,3,0,0,134,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/407023_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,SAM MORSY,Egypt,1,0,0,21,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/395858_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,TAREK HAMED,Egypt,3,0,2,137,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/332777_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,MOHAMED ELNENY,Egypt,3,0,3,109,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/230099_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,ABDALLA SAID,Egypt,3,0,2,142,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/363863_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,TREZIGUET,Egypt,3,0,8,86,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/339900_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,MARWAN MOHSEN,Egypt,3,0,4,42,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/344654_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,MOHAMED SALAH,Egypt,2,2,6,41,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/369215_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,KAHRABA,Egypt,3,0,0,14,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401841_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,RAMADAN SOBHY,Egypt,3,0,0,23,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/363867_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/egy,AMR WARDA,Egypt,3,0,2,57,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/336022_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Jordan PICKFORD,England,7,0,0,230,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/356750_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Kyle WALKER,England,5,0,0,367,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/274036_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Danny ROSE,England,5,0,1,80,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/369434_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,John STONES,England,7,2,6,474,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/407498_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Harry MAGUIRE,England,7,1,11,415,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/306504_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Kieran TRIPPIER,England,6,1,3,328,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/305764_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Gary CAHILL,England,1,0,0,46,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/358009_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Phil JONES,England,2,0,1,146,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/306520_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Fabian DELPH,England,4,0,3,159,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/299962_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Ashley  YOUNG,England,5,0,2,194,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/390761_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Trent ALEXANDER-ARNOLD,England,1,0,2,58,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/369400_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Eric  DIER,England,6,0,5,193,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/398743_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Jesse  LINGARD,England,6,1,17,227,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/356189_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Jordan HENDERSON,England,5,0,4,278,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/401298_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Dele ALLI,England,5,1,5,151,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411303_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Ruben LOFTUS-CHEEK,England,4,0,3,122,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/369419_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Harry KANE,England,6,6,14,136,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/336043_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Raheem STERLING,England,6,0,10,130,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/400820_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Jamie VARDY,England,4,0,2,22,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/274034_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Danny WELBECK,England,1,0,2,1,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401470_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/eng,Marcus RASHFORD,England,6,0,5,85,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/297105_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Hugo LLORIS,France,6,0,0,152,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/254133_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Steve MANDANDA,France,1,0,0,26,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411471_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Benjamin PAVARD,France,6,1,4,258,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/401459_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Presnel KIMPEMBE,France,1,0,0,72,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/359440_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Raphael VARANE,France,7,1,4,330,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/368846_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Samuel UMTITI,France,6,1,2,203,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/398682_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Djibril SIDIBE,France,1,0,0,95,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411470_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Lucas HERNANDEZ,France,7,0,6,202,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/335995_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Benjamin MENDY,France,1,0,0,31,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/367388_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Paul POGBA,France,6,1,8,296,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/404566_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Corentin TOLISSO,France,5,0,2,125,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/398681_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Ngolo KANTE,France,7,0,1,365,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/358014_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Blaise MATUIDI,France,5,0,4,115,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/319327_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Steven NZONZI,France,5,0,0,92,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/336435_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Antoine GRIEZMANN,France,7,4,21,244,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/402049_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Thomas LEMAR,France,1,0,1,56,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/358015_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Olivier GIROUD,France,7,0,15,114,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/389867_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Kylian MBAPPE,France,7,4,8,160,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/398680_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Ousmane DEMBELE,France,4,0,3,71,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401458_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Nabil FEKIR,France,6,0,4,36,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/368965_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/fra,Florian THAUVIN,France,1,0,0,1,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/228912_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Manuel NEUER,Germany,3,0,0,102,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/309312_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Marvin PLATTENHARDT,Germany,1,0,1,24,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401377_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Jonas HECTOR,Germany,2,0,2,85,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/311150_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Mats HUMMELS,Germany,2,0,6,112,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/395488_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Niklas SUELE,Germany,1,0,0,82,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/379955_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Antonio RUEDIGER,Germany,1,0,0,90,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/299442_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Jerome BOATENG,Germany,2,0,3,182,1,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/386413_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Joshua KIMMICH,Germany,3,0,3,237,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/196900_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Sami KHEDIRA,Germany,2,0,3,94,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/358692_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Julian DRAXLER,Germany,2,0,6,82,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/275162_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Toni KROOS,Germany,3,1,15,331,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/305036_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Mesut OEZIL,Germany,2,0,2,167,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/321722_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Thomas MUELLER,Germany,3,0,3,100,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/379953_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Leon GORETZKA,Germany,1,0,2,25,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/275630_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Sebastian RUDY,Germany,1,0,0,19,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/385947_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Julian BRANDT,Germany,3,0,4,22,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/404357_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Timo WERNER,Germany,3,0,7,73,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/352394_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Marco REUS,Germany,3,1,5,120,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/216784_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Mario GOMEZ,Germany,3,0,4,12,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/359843_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Hannes HALLDORSSON,Iceland,3,0,0,86,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/300344_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Birkir SAEVARSSON,Iceland,3,0,0,70,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/401143_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Sverrir INGASON,Iceland,2,0,3,37,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/300343_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Ragnar SIGURDSSON,Iceland,3,0,0,52,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/231598_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Kari ARNASON,Iceland,2,0,0,41,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401146_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Hordur MAGNUSSON,Iceland,3,0,2,59,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/300371_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Ari SKULASON,Iceland,2,0,0,7,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411384_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Albert GUDMUNDSSON,Iceland,1,0,0,1,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/300351_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Johann GUDMUNDSSON,Iceland,2,0,3,47,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/300376_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Birkir BJARNASON,Iceland,3,0,7,58,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/300377_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Gylfi SIGURDSSON,Iceland,3,1,10,100,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/300382_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Aron GUNNARSSON,Iceland,3,0,2,80,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/300380_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Rurik GISLASON,Iceland,2,0,1,26,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/300348_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Emil HALLFREDSSON,Iceland,2,0,1,58,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/401147_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Arnor TRAUSTASON,Iceland,1,0,1,2,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/359845_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Bjorn SIGURDARSON,Iceland,3,0,0,14,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/359847_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Alfred FINNBOGASON,Iceland,3,1,5,54,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/401145_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/isl,Jon BODVARSSON,Iceland,1,0,1,13,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/380007_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/irn,Ali BEIRANVAND,IR Iran,3,0,0,69,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/288961_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/irn,Ehsan HAJI SAFI,IR Iran,3,0,2,49,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/406595_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/irn,Roozbeh CHESHMI,IR Iran,1,0,1,13,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/390537_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/irn,Milad MOHAMMADI,IR Iran,2,0,0,12,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/314249_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/irn,Morteza POURALIGANJI,IR Iran,3,0,0,58,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/371735_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/irn,Majid HOSSEINI,IR Iran,3,0,0,38,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/384797_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/irn,Ramin REZAEIAN,IR Iran,3,0,1,66,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/371736_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/irn,Saeid EZATOLAHI,IR Iran,2,0,1,45,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/213170_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/irn,Masoud SHOJAEI,IR Iran,1,0,0,17,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/384795_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/irn,Vahid AMIRI,IR Iran,3,0,2,51,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/330659_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/irn,Karim ANSARIFARD,IR Iran,3,1,3,28,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/411644_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/irn,Saman GHODDOS,IR Iran,3,0,2,2,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/388475_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/irn,Mehdi TAREMI,IR Iran,3,0,3,36,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/379886_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/irn,Alireza JAHANBAKHSH,IR Iran,3,0,2,37,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/379887_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/irn,Sardar AZMOUN,IR Iran,3,0,3,49,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/198117_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Eiji KAWASHIMA,Japan,4,0,0,104,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/384847_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Gen SHOJI,Japan,3,0,1,170,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/291372_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Yuto NAGATOMO,Japan,4,0,2,152,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/350003_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Hiroki SAKAI,Japan,4,0,2,150,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/268477_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Tomoaki MAKINO,Japan,1,0,2,84,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/321736_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Gotoku SAKAI,Japan,1,0,1,16,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/271253_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Maya YOSHIDA,Japan,4,0,2,282,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/233500_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Keisuke HONDA,Japan,3,1,4,30,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/307719_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Gaku SHIBASAKI,Japan,4,0,0,238,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/347718_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Genki HARAGUCHI,Japan,3,1,3,74,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/268596_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Shinji KAGAWA,Japan,3,1,3,136,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/307739_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Takashi USAMI,Japan,2,0,3,36,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/271255_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Takashi INUI,Japan,4,2,8,134,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/356466_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Hotaru YAMAGUCHI,Japan,3,0,0,95,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/289027_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Makoto HASEBE,Japan,4,0,1,217,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/286278_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Shinji OKAZAKI,Japan,3,0,1,17,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/384846_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Yoshinori MUTO,Japan,1,0,2,17,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/275136_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/jpn,Yuya OSAKO,Japan,4,1,7,72,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/397753_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,JO Hyeonwoo,Korea Republic,3,0,0,76,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/363578_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,LEE Yong,Korea Republic,3,0,1,98,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/329895_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,YUN Youngsun,Korea Republic,1,0,0,10,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/268411_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,PARK Jooho,Korea Republic,1,0,0,4,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/274285_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,KIM Minwoo,Korea Republic,2,0,1,43,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/329912_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,HONG Chul,Korea Republic,2,0,0,24,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/375754_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,KIM Younggwon,Korea Republic,3,1,1,84,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/336682_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,JANG Hyunsoo,Korea Republic,3,0,0,92,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/375627_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,GO Yohan,Korea Republic,1,0,0,3,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/390529_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,JU Sejong,Korea Republic,2,0,0,40,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/390081_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,LEE Seungwoo,Korea Republic,2,0,1,24,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/291393_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,KOO Jacheol,Korea Republic,2,0,1,25,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/356534_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,JUNG Wooyoung,Korea Republic,3,0,3,59,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/268406_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,KI Sungyueng,Korea Republic,2,0,3,90,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/390525_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,LEE Jaesung,Korea Republic,3,0,4,108,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/314722_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,MOON Seonmin,Korea Republic,2,0,2,29,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/307849_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,SON Heungmin,Korea Republic,3,2,14,79,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/321745_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,KIM Shinwook,Korea Republic,1,0,0,10,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/395083_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/kor,HWANG Heechan,Korea Republic,3,0,2,36,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/215285_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Guillermo OCHOA,Mexico,4,0,0,110,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/309592_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Hugo AYALA,Mexico,2,0,0,58,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/395518_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Carlos SALCEDO,Mexico,4,0,4,211,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/178119_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Rafael MARQUEZ,Mexico,3,0,0,43,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/238112_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Hector MORENO,Mexico,3,0,1,138,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/329092_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Hector HERRERA,Mexico,4,0,5,202,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/318612_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Jonathan DOS SANTOS,Mexico,1,0,0,26,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/371044_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Miguel LAYUN,Mexico,4,0,9,110,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/234551_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Giovani DOS SANTOS,Mexico,1,0,0,5,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/314918_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Jesus CORONA,Mexico,2,0,0,25,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/251352_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Andres GUARDADO,Mexico,4,0,6,148,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/402772_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Jesus GALLARDO,Mexico,4,0,1,138,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/319311_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Marco FABIAN,Mexico,1,0,2,14,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/356731_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Raul JIMENEZ,Mexico,2,0,1,15,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/234552_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Carlos VELA,Mexico,4,1,10,125,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/228599_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Javier HERNANDEZ,Mexico,4,1,5,75,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/227851_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Oribe PERALTA,Mexico,1,0,0,3,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/386337_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mex,Hirving  LOZANO,Mexico,4,1,13,89,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/395755_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Monir EL KAJOUI,Morocco,3,0,0,61,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/400721_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Achraf HAKIMI,Morocco,3,0,1,94,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/299073_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Manuel DA COSTA,Morocco,3,0,2,86,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/305954_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Mehdi BENATIA,Morocco,2,0,5,123,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/398599_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Ghanem SAISS,Morocco,2,0,1,89,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/296750_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Nabil DIRAR,Morocco,2,0,1,77,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/395759_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Hakim ZIYACH,Morocco,3,0,8,117,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/232674_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Karim EL AHMADI,Morocco,3,0,1,106,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/353205_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Younes BELHANDA,Morocco,3,0,6,100,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/395756_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Faycal FAJR,Morocco,2,0,0,22,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/296799_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Mbark BOUSSOUFA,Morocco,3,0,1,129,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/291414_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Noureddine AMRABAT,Morocco,3,0,1,71,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/372114_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Amine HARIT,Morocco,1,0,3,23,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/372266_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Sofyan AMRABAT,Morocco,1,0,0,4,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/290868_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Mehdi CARCELA,Morocco,1,0,0,7,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411678_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Ayoub EL KAABI,Morocco,2,0,1,6,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401884_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Khalid BOUTAIB,Morocco,2,1,3,25,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401885_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Youssef EN NESYRI,Morocco,1,1,1,4,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/407125_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/mar,Aziz BOUHADDOUZ,Morocco,2,0,0,2,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/372607_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/nga,Francis UZOHO,Nigeria,3,0,0,64,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411700_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/nga,Bryan IDOWU,Nigeria,3,0,0,73,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/395529_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/nga,William EKONG,Nigeria,3,0,2,108,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/402251_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/nga,Leon BALOGUN,Nigeria,3,0,4,110,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/369428_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/nga,Abdullahi SHEHU,Nigeria,1,0,0,32,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/407161_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/nga,Tyronne EBUEHI,Nigeria,1,0,0,21,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/315424_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/nga,Kenneth OMERUO,Nigeria,2,0,0,66,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/369512_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/nga,Wilfred NDIDI,Nigeria,3,0,3,143,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/395531_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/nga,Oghenekaro ETEBO,Nigeria,3,0,7,137,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/234463_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/nga,John Obi MIKEL,Nigeria,3,0,0,148,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/344714_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/nga,Ahmed MUSA,Nigeria,3,2,4,51,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/312997_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/nga,Odion IGHALO,Nigeria,3,0,5,15,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/274090_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/nga,Victor MOSES,Nigeria,3,1,7,77,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411702_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/nga,Simeon NWANKWO,Nigeria,2,0,0,0,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/372542_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/nga,Kelechi IHEANACHO,Nigeria,3,0,3,40,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/213770_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Jaime PENEDO,Panama,3,0,0,59,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/385031_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Michael MURILLO,Panama,2,0,2,74,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/337231_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Harold CUMMINGS,Panama,1,0,0,16,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/385030_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Fidel ESCOBAR,Panama,3,0,2,86,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/198481_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Roman TORRES,Panama,3,0,4,63,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/295901_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Adolfo MACHADO,Panama,1,0,0,26,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/337232_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Eric DAVIS,Panama,2,0,0,97,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/267688_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Luis OVALLE,Panama,1,0,0,28,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/201720_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Felipe BALOY,Panama,1,1,1,17,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/197912_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Gabriel GOMEZ,Panama,3,0,0,120,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/400416_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Edgar BARCENAS,Panama,3,0,5,61,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/267700_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Armando COOPER,Panama,2,0,1,69,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/411177_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Ricardo AVILA,Panama,2,0,1,43,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/269514_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Anibal GODOY,Panama,3,0,2,104,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/411176_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Jose Luis RODRIGUEZ,Panama,3,0,3,61,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/202039_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Blas PEREZ,Panama,2,0,1,34,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/239360_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Gabriel TORRES,Panama,2,0,1,10,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/372342_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Ismael DIAZ,Panama,1,0,0,6,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/337225_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Abdiel ARROYO,Panama,2,0,0,4,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/213780_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pan,Luis TEJADA,Panama,2,0,0,21,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/275261_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Pedro GALLESE,Peru,3,0,0,74,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/202638_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Alberto RODRIGUEZ,Peru,2,0,2,53,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/398457_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Anderson SANTAMARIA,Peru,2,0,0,71,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/397791_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Miguel TRAUCO,Peru,3,0,0,172,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/228728_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Christian RAMOS,Peru,3,0,1,115,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/349697_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Luis ADVINCULA,Peru,3,0,3,132,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/349685_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Paolo HURTADO,Peru,1,0,0,18,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/349700_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Christian CUEVA,Peru,3,0,3,124,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/392903_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Renato TAPIA,Peru,2,0,1,50,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/401945_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Wilder CARTAGENA,Peru,1,0,0,4,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/349698_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Yoshimar YOTUN,Peru,3,0,3,130,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/397696_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Pedro AQUINO,Peru,3,0,1,104,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/225497_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Paolo GUERRERO,Peru,3,1,7,52,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/201748_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Jefferson FARFAN,Peru,2,0,4,34,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/349703_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Raul RUIDIAZ,Peru,2,0,0,4,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/349696_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Andre CARRILLO,Peru,3,1,3,108,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/394797_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/per,Edison FLORES,Peru,3,0,4,98,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/360188_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/den,Andreas CORNELIUS,Denmark,3,0,1,34,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/358690_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ger,Ilkay GUENDOGAN,Germany,1,0,1,54,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/269746_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Wojciech SZCZESNY,Poland,2,0,0,59,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/216931_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Lukasz FABIANSKI,Poland,1,0,0,28,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/297356_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Michal PAZDAN,Poland,2,0,0,150,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/270895_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Artur JEDRZEJCZYK,Poland,1,0,1,38,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/398594_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Thiago CIONEK,Poland,1,0,0,79,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/406995_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Jan BEDNAREK,Poland,3,1,1,166,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/269695_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Kamil GLIK,Poland,2,0,1,77,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/370435_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Bartosz BERESZYNSKI,Poland,3,0,0,59,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/216955_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Lukasz PISZCZEK,Poland,2,0,1,91,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/402079_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Jacek GORALSKI,Poland,2,0,1,71,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/269735_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Grzegorz KRYCHOWIAK,Poland,3,1,2,174,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/269706_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Kamil GROSICKI,Poland,3,0,5,60,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/299687_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Maciej RYBUS,Poland,2,0,1,59,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/216944_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Jakub BLASZCZYKOWSKI,Poland,1,0,0,8,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/216954_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Slawomir PESZKO,Poland,1,0,0,11,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/370436_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Piotr ZIELINSKI,Poland,3,0,3,156,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411483_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Rafal KURZAWA,Poland,1,0,2,31,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/362823_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Arkadiusz MILIK,Poland,1,0,1,22,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/299688_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Robert LEWANDOWSKI,Poland,3,0,9,67,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/367469_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Lukasz TEODORCZYK,Poland,2,0,1,10,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411482_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/pol,Dawid KOWNACKI,Poland,2,0,1,24,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/269768_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,RUI PATRICIO,Portugal,4,0,0,96,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/275931_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,PEPE,Portugal,4,1,2,161,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/395213_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,RAPHAEL GUERREIRO,Portugal,4,0,4,220,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/398511_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,JOSE FONTE,Portugal,4,0,3,175,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/368706_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,RICARDO,Portugal,1,0,0,54,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/336491_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,CEDRIC,Portugal,3,0,0,130,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/201099_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,MANUEL FERNANDES,Portugal,1,0,2,10,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/200199_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,JOAO MOUTINHO,Portugal,3,0,0,78,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/368700_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,JOAO MARIO,Portugal,4,0,1,158,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/395205_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,BERNARDO SILVA,Portugal,4,0,2,130,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/376349_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,WILLIAM,Portugal,4,0,1,266,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/395206_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,BRUNO FERNANDES,Portugal,2,0,3,33,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/319491_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,ADRIEN SILVA,Portugal,3,0,2,170,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/201200_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,CRISTIANO RONALDO,Portugal,4,4,21,112,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/384756_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,ANDRE SILVA,Portugal,3,0,1,34,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/384751_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,GONCALO GUEDES,Portugal,4,0,5,60,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/384766_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,GELSON MARTINS,Portugal,1,0,0,9,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/189810_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/por,RICARDO QUARESMA,Portugal,3,1,5,60,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/215017_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Igor AKINFEEV,Russia,5,0,0,123,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/312866_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,MARIO FERNANDES,Russia,5,1,1,173,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/404425_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Ilya KUTEPOV,Russia,5,0,0,150,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/186787_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Sergei IGNASHEVICH,Russia,5,0,2,154,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/404424_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Fedor KUDRIASHOV,Russia,4,0,0,98,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/358046_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Vladimir GRANAT,Russia,1,0,0,4,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/375357_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Igor SMOLNIKOV,Russia,1,0,0,11,1,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/358883_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Denis CHERYSHEV,Russia,5,4,12,78,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411572_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Daler KUZIAEV,Russia,5,0,2,88,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/379988_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Iury GAZINSKY,Russia,4,1,2,114,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/302539_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Alan DZAGOEV,Russia,2,0,1,20,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/404429_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Roman ZOBNIN,Russia,5,0,7,179,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/371765_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Alexey MIRANCHUK,Russia,1,0,0,22,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/371639_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Aleksandr GOLOVIN,Russia,4,1,3,132,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/216432_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Yury ZHIRKOV,Russia,3,0,2,64,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/216435_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Alexander SAMEDOV,Russia,5,0,2,138,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/404421_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Aleksandr EROKHIN,Russia,2,0,2,14,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/358871_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Fedor SMOLOV,Russia,5,0,2,67,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/358889_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/rus,Artem DZYUBA,Russia,5,3,8,91,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/404372_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,ABDULLAH ALMUAIOUF,Saudi Arabia,1,0,0,34,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/198514_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,YASSER ALMOSAILEM,Saudi Arabia,1,0,0,17,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/396885_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,MOHAMMED ALOWAIS,Saudi Arabia,1,0,0,25,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/278167_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,OSAMA HAWSAWI,Saudi Arabia,3,0,0,119,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/407983_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,ALI ALBULAYHI,Saudi Arabia,1,0,0,45,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/385091_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,OMAR HAWSAWI,Saudi Arabia,1,0,0,53,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/397857_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,MOHAMMED ALBURAYK,Saudi Arabia,3,0,3,215,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/339482_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,YASSER ALSHAHRANI,Saudi Arabia,3,0,5,166,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/339477_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,MOTAZ HAWSAWI,Saudi Arabia,1,0,0,31,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/352891_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,SALMAN ALFARAJ,Saudi Arabia,3,1,3,273,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/347165_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,YAHIA ALSHEHRI,Saudi Arabia,2,0,0,51,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/339485_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,HATAN BAHBRI,Saudi Arabia,3,0,6,66,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/407993_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,MOHAMED KANNO,Saudi Arabia,1,0,1,6,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/390000_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,HUSSAIN ALMOQAHWI,Saudi Arabia,2,0,5,116,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/218083_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,TAISEER ALJASSAM,Saudi Arabia,2,0,0,71,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/339745_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,SALEM ALDAWSARI,Saudi Arabia,3,1,7,172,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/288078_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,MOHAMMED ALSAHLAWI,Saudi Arabia,2,0,1,13,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/339470_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,FAHAD ALMUWALLAD,Saudi Arabia,3,0,2,24,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/330914_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/ksa,MUHANNAD ASIRI,Saudi Arabia,2,0,1,3,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/353111_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Khadim NDIAYE,Senegal,3,0,0,69,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/339820_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Kalidou KOULIBALY,Senegal,3,0,0,99,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/368848_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Youssouf SABALY,Senegal,3,0,2,83,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/319348_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Lamine GASSAMA,Senegal,1,0,0,22,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/386256_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Moussa WAGUE,Senegal,3,1,1,70,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/332314_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Idrissa Gana GUEYE,Senegal,3,0,2,126,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/370169_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Salif SANE,Senegal,3,0,4,102,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/353765_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Cheikhou KOUYATE,Senegal,3,0,0,37,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/395925_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Cheikh NDOYE,Senegal,2,0,1,15,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/274154_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Alfred NDIAYE,Senegal,2,0,1,45,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/339919_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Pape Alioune NDIAYE,Senegal,1,0,1,22,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/330687_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Mame DIOUF,Senegal,2,0,1,8,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/353790_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Sadio MANE,Senegal,3,1,4,96,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/353782_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Moussa KONATE,Senegal,2,0,1,5,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/408939_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Diafra SAKHO,Senegal,1,0,0,3,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401889_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Ismaila SARR,Senegal,3,0,3,63,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/336000_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Mbaye NIANG,Senegal,3,1,8,69,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/401888_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sen,Keita BALDE,Senegal,1,0,1,13,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/214386_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Vladimir STOJKOVIC,Serbia,3,0,0,76,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/291447_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Antonio RUKAVINA,Serbia,2,0,0,44,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/212308_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Dusko TOSIC,Serbia,2,0,0,83,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/214388_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Branislav IVANOVIC,Serbia,2,0,0,69,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/291438_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Aleksandar KOLAROV,Serbia,3,1,2,109,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/385852_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Milos VELJKOVIC,Serbia,1,0,0,49,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411544_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Nikola MILENKOVIC,Serbia,3,0,0,117,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/365641_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Luka MILIVOJEVIC,Serbia,2,0,0,80,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/375538_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Andrija ZIVKOVIC,Serbia,1,0,1,13,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/298698_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Dusan TADIC,Serbia,3,0,3,79,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401178_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Filip KOSTIC,Serbia,3,0,3,45,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/385545_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Sergej MILINKOVIC-SAVIC,Serbia,3,0,5,112,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/310082_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Nemanja MATIC,Serbia,3,0,3,141,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/319554_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Adem LJAJIC,Serbia,3,0,1,84,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/294103_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Aleksandar PRIJOVIC,Serbia,1,0,0,2,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/370456_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Aleksandar MITROVIC,Serbia,3,1,14,53,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/385893_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Nemanja RADONJIC,Serbia,2,0,0,12,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/385536_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/srb,Luka JOVIC,Serbia,1,0,0,0,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/269859_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,David DE GEA,Spain,4,0,0,82,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/380048_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,Dani CARVAJAL,Spain,3,0,3,159,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/216973_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,Gerard PIQUE,Spain,4,0,7,351,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/400711_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,NACHO,Spain,2,1,1,91,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/216814_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,Sergio RAMOS,Spain,4,0,4,507,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/306954_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,Jordi ALBA,Spain,4,0,2,394,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/303034_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,Sergio BUSQUETS,Spain,4,0,5,318,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/183857_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,Andres INIESTA,Spain,4,0,5,280,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/313410_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,KOKE,Spain,3,0,1,268,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/375512_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,THIAGO,Spain,2,0,2,113,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/400715_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,Marco ASENSIO,Spain,3,0,2,65,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/313374_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,ISCO,Spain,4,1,10,460,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/337175_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,RODRIGO,Spain,3,0,4,7,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/400713_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,Lucas VAZQUEZ,Spain,2,0,0,40,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/402138_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,Iago ASPAS,Spain,3,1,4,26,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/367920_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,Diego COSTA,Spain,4,3,11,64,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/200176_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/esp,David SILVA,Spain,4,0,9,206,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/398547_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Robin OLSEN,Sweden,5,0,0,126,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/300251_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Mikael LUSTIG,Sweden,4,0,1,87,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/395283_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Victor LINDELOF,Sweden,4,0,0,100,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/214667_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Andreas GRANQVIST,Sweden,5,2,5,166,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/358053_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Martin OLSSON,Sweden,2,0,0,12,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/395264_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Ludwig AUGUSTINSSON,Sweden,5,1,3,124,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/398561_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Emil KRAFTH,Sweden,2,0,0,41,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/373312_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Pontus JANSSON,Sweden,2,0,1,55,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/214675_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Sebastian LARSSON,Sweden,4,0,1,156,0,3
+https://api.fifa.com/api/v1/picture/players/2018fwc/360340_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Albin EKDAL,Sweden,5,0,3,158,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/398550_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Emil FORSBERG,Sweden,5,1,15,105,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/406882_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Gustav SVENSSON,Sweden,3,0,0,26,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/372881_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Oscar HILJEMARK,Sweden,2,0,0,11,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401465_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Viktor CLAESSON,Sweden,5,0,5,132,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/365630_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Jimmy DURMAZ,Sweden,1,0,0,3,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/297243_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Marcus BERG,Sweden,5,0,15,85,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/398551_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,John GUIDETTI,Sweden,2,0,1,6,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/300255_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Ola TOIVONEN,Sweden,5,1,5,88,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/395273_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/swe,Isaac Kiese THELIN,Sweden,4,0,0,11,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/319460_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Yann SOMMER,Switzerland,4,0,0,142,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/196605_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Stephan LICHTSTEINER,Switzerland,3,0,2,113,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/405178_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Manuel AKANJI,Switzerland,4,0,2,317,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/356407_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Michael LANG,Switzerland,3,0,1,57,1,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/313559_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Ricardo RODRIGUEZ,Switzerland,4,0,7,190,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/216645_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Johan DJOUROU,Switzerland,1,0,0,62,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/356411_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Fabian SCHAER,Switzerland,3,0,1,211,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/311558_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Granit XHAKA,Switzerland,4,1,5,355,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/216627_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Valon BEHRAMI,Switzerland,4,0,1,229,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/356415_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Steven ZUBER,Switzerland,3,1,4,84,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/216646_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Blerim DZEMAILI,Switzerland,4,1,8,96,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401448_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Denis ZAKARIA,Switzerland,2,0,0,27,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/321653_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Xherdan SHAQIRI,Switzerland,4,1,13,192,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/393480_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Breel EMBOLO,Switzerland,4,0,4,43,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/311554_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Haris SEFEROVIC,Switzerland,3,0,1,20,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/319470_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Mario GAVRANOVIC,Switzerland,2,0,3,20,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/356399_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/sui,Josip DRMIC,Switzerland,3,1,4,20,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/320518_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Farouk BEN MUSTAPHA,Tunisia,2,0,0,60,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/212413_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Aymen MATHLOUTHI,Tunisia,1,0,0,29,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411654_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Mouez HASSEN,Tunisia,1,0,0,5,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/329717_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Syam BEN YOUSSEF,Tunisia,2,0,0,38,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/326645_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Yohan BEN ALOUANE,Tunisia,1,0,0,18,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/395998_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Yassine MERIAH,Tunisia,3,0,0,179,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401801_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Oussama HADDADI,Tunisia,1,0,0,27,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/273822_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Rami BEDOUI,Tunisia,1,0,1,86,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411653_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Dylan BRONN,Tunisia,2,1,1,46,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/332643_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Ali MAALOUL,Tunisia,2,0,0,99,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/401797_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Hamdi NAGUEZ,Tunisia,2,0,0,87,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/407145_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Anice BADRI,Tunisia,3,0,3,82,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/370575_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Ferjani SASSI,Tunisia,3,1,5,151,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/401798_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Mohamed BEN AMOR,Tunisia,1,0,0,5,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411658_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Ellyes SKHIRI,Tunisia,3,0,0,164,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411656_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Saifeddine KHAOUI,Tunisia,1,0,2,36,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/364668_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Fakhreddine BEN YOUSSEF,Tunisia,3,1,7,94,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/364669_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Wahbi KHAZRI,Tunisia,3,2,10,81,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/411655_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Ahmed KHALIL,Tunisia,1,0,0,5,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/407144_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Bassem SRARFI,Tunisia,1,0,0,1,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/329718_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Saber KHALIFA,Tunisia,1,0,0,0,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/407141_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Ghaylen CHAALELI,Tunisia,1,0,1,83,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/402235_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/tun,Naim SLITI,Tunisia,3,0,6,53,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/229498_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Fernando MUSLERA,Uruguay,5,0,0,133,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/368655_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Jose GIMENEZ,Uruguay,4,1,3,176,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/229499_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Diego GODIN,Uruguay,5,0,3,233,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/368660_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Guillermo VARELA,Uruguay,2,0,0,96,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/305382_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Sebastian COATES,Uruguay,1,0,0,60,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/267829_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Martin CACERES,Uruguay,5,0,6,198,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/392673_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Carlos SANCHEZ,Uruguay,3,0,3,62,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/386538_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Rodrigo BENTANCUR,Uruguay,5,0,3,231,0,2
+https://api.fifa.com/api/v1/picture/players/2018fwc/216567_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Cristian RODRIGUEZ,Uruguay,5,0,4,83,0,1
+https://api.fifa.com/api/v1/picture/players/2018fwc/386284_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Nahitan NANDEZ,Uruguay,5,0,1,117,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/371670_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Lucas TORREIRA,Uruguay,5,0,1,151,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/337196_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Matias VECINO,Uruguay,5,0,3,254,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/368657_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Diego LAXALT,Uruguay,4,0,1,94,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/270775_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Luis SUAREZ,Uruguay,5,2,14,130,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/368652_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Giorgian DE ARRASCAETA,Uruguay,2,0,2,50,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/229506_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Cristhian STUANI,Uruguay,2,0,1,15,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/407384_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Maximiliano GOMEZ,Uruguay,2,0,0,5,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/305384_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Jonathan URRETAVISCAYA,Uruguay,1,0,0,15,0,0
+https://api.fifa.com/api/v1/picture/players/2018fwc/267834_sq-300_jpg,https://api.fifa.com/api/v1/picture/flags-fwc2018-4/uru,Edinson CAVANI,Uruguay,4,3,16,89,0,0
