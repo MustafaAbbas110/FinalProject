@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% load static %}
+
+
+
+
+
+
+{% block content%}
+
+	<div class="NewsFeed">
+		<h1 class="news">Today's News</h1>
+		<hr/>
+		{% for i in NewsData %}
+			<div class="mainText">
+				<a href="#">
+					<div class="text">
+						<h3>{{ i.Heading }}</h3>
+						<strong>{{ i.Content }}</strong>
+					</div>
+				</a>
+				<img src="{{ i.Images }}">
+			</div>
+		{% endfor %}
+	</div>
+			
+	
+{% endblock content %}
+

@@ -1,11 +1,13 @@
 body{
-	background: url(../images/background1.png) no-repeat 20px 100px fixed;
-	background-size:55% 600px;
+
 }
 nav{
 	box-shadow:  2px 2px 2px #000;
 	width:100%;
+	z-index:1;
+	
 }
+
 nav > a{
 	background: url(../images/logo.png) no-repeat;
 	background-size: 75px 47px;
@@ -63,6 +65,7 @@ tr td.heading:hover{
 	top:0px;
 	left:0px;
 	background: rgba(0,0,0,.9);
+	z-index:2;
 }
 #black table{
 	position: relative;
@@ -152,3 +155,55 @@ th{
 	text-align:center;
 	font-weight:bold;
 }
+.NewsFeed{
+	width:98%;
+	margin: 0 auto;
+}
+.mainText{
+	position:relative;
+	display:inline-block;
+	margin:5px;
+}
+.text{
+	-webkit-transition: all 2s ease;
+	transition: all 2s ease;
+	position: absolute;
+	bottom:0px;
+	left:0px;
+	color:#FFF;
+	width:100%;
+	padding:20px;
+	background: rgba(25, 85, 181, .8);
+	text-shadow: 2px 2px #000000;
+
+}
+.text:hover{
+	cursor: pointer;
+	height:100%;
+	background: rgba(119, 91, 91, 0.5);
+}
+.text h2{
+	font-size:25px;
+}
+
+.mainText img{
+	width:360px;
+	height:310px;
+	
+	box-shadow:  3px 3px 2px #000;
+
+
+}
+.mainText img:hover{
+	cursor: pointer;
+}
+h1,h2{
+	color:#FFF;
+	width:100%;
+	padding:10px 0px 10px 20px;
+	background: rgba(25, 85, 181, 1);
+	text-shadow: 2px 2px #000000;
+	border-radius: 10px;
+	box-shadow:  3px 3px 2px #000;
+}
+

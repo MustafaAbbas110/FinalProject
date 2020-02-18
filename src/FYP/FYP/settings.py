@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'fixture',
     'fifaRecords',
 	'PlayersRecord',
+	'Home',
+	'prediction',
     
 ]
 

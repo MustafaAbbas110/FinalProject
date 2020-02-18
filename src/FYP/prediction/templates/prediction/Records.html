@@ -1,0 +1,64 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+	
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.js"></script>
+		<h1 style="text-align:center;">Group Stage</h1>
+		{% for i in data %}
+			{% if forloop.counter == 49 %}
+				<h1 style="text-align:center;">Super 16</h1>
+			{% endif %}
+			{% if forloop.counter == 57 %}
+				<h1 style="text-align:center;">Quater Final</h1>
+			{% endif %}
+			{% if forloop.counter == 61 %}
+				<h1 style="text-align:center;">Semi Final</h1>
+			{% endif %}
+			{% if forloop.counter == 63 %}
+				<h1 style="text-align:center;">Final</h1>
+			{% endif %}
+			<div style="cursor:pointer;width:350px;margin:10px;padding:0px;display:inline-block;border:1px solid black;box-shadow:2px 2px 2px black">
+				<h4 style="font-weight:bold;text-transform:uppercase;margin:0 auto;text-align:center;">{{i.0}} Vs {{i.1}}</h4>
+				<div style="width:350px;display:inline-block;">
+					<canvas id="p{{forloop.counter}}"></canvas>
+				</div>
+				<h5 style="margin:0 auto;text-align:center;">{{i.2}}</h5>
+			</div>
+			
+			<script>
+					var x = Math.round({{i.3}}*100);
+					var y = Math.round({{i.4}}*100);
+					var z = Math.round({{i.5}}*100);
+				data = {
+					
+					
+					datasets: [{
+						data: [x,y,z],
+						backgroundColor: ['lightGreen','lightGray','lightBlue']
+					}],
+
+					// These labels appear in the legend and in the tooltips when hovering different arcs
+					labels: [
+						'{{i.0}}',
+						'Draw',
+						'{{i.1}}'
+					],
+					
+					
+				};
+			
+				var ctx = document.getElementById('p{{forloop.counter}}').getContext('2d');
+				var myDoughnutChart = new Chart(ctx, {
+					type: 'pie',
+					data: data,
+				});
+			</script>
+		{% endfor %}
+
+
+
+	
+	
+	
+{% endblock content %}  

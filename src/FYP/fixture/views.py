@@ -6,7 +6,7 @@ from fixture.models import schedule
 
 time = ctime()[11:16] == "01:00"
 
-if(time):
+if(False):
 	rows = schedule.objects.all()
 	for row in rows:
 		row.delete()
@@ -14,7 +14,7 @@ if(time):
 
 
 def DataLoadPrevRecord():
-	if(time):
+	if(False):
 		from . import PrevRecordScraping
 		for x in models.PrevRecord.objects.all().iterator(): 
 			x.delete()

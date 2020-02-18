@@ -21,4 +21,6 @@ urlpatterns = [
     path('fixture/',include("fixture.urls")),
     path('Records/',include("fifaRecords.urls")),
 	path('PlayersRecord/',include("PlayersRecord.urls")),
+	path('prediction/',include("prediction.urls")),
+	path('',include("Home.urls")),
 ]

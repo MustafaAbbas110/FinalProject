@@ -2,6 +2,18 @@
 {% load static %}
 
 {% block content %}
+	<script>
+		function blackdiv(){
+			blackDiv = document.querySelector("#black");
+			blackDiv.hidden = true;
+		}
+		
+		function bdiv(){
+			blackDiv = document.querySelector(".b");
+			blackDiv.hidden = true;
+		}
+	</script>
+
 	<div id="black" onclick="blackdiv()">
 		<div style="width:70%;margin:auto;background:rgba(255,255,255,0.9);border-radius:0 0 10px 10px;box-shadow:2px 2px 2px #000">
 			<canvas id="myChart"></canvas>
@@ -39,12 +51,12 @@
 		</div>
 	</div>
 	
-	<h1 style="margin-top:20px;text-align:center;padding:10px;background:rgba(0,0,0,0.8);color:#fff;font-weight:bold;border-radius:10px" >FIFA WORLD CUP 2018 PLAYERS RECORDS</h1>
+	<h1 style="margin-top:20px;text-align:center;" >FIFA WORLD CUP 2018 PLAYERS RECORDS</h1>
   
 	<div id="session">
         <form style="max-width:900px;margin:0 auto;" action="" method="POST">
             {% csrf_token %}
-            {% for i in country %}
+			{% for i in country %}
                 <input style="width:100px;margin:3px;" id="y{{ i }}" class="y" type="submit" src="{{i}}" name="Submit" value="{{ i }}"/>
             {% endfor %}
         </form> 
@@ -52,7 +64,7 @@
 	
 	{% for i in dataCountry %}
 		{% if forloop.counter == 1 %}
-			<h2 style="text-align:center;padding:10px;background:rgba(0,0,0,0.8);color:#fff;font-weight:bold;border-radius:10px" >{{ s }}<img style="width:60px;margin:10px;" src="{{ i.playerFlag }}"></img></h2>
+			<h1 style="text-align:center;padding" >{{ s }}<img style="width:60px;margin:10px;" src="{{ i.playerFlag }}"></img></h1>
 		{% endif %}
 	{% endfor %}
 	
@@ -277,14 +289,6 @@
 		}
 	});
 	
-	function blackdiv(){
-			blackDiv = document.querySelector("#black");
-			blackDiv.hidden = true;
-		}
-		
-	function bdiv(){
-			blackDiv = document.querySelector(".b");
-			blackDiv.hidden = true;
-		}
+	
 	</script>
 {% endblock content %}  

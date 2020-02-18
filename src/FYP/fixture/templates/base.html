@@ -17,19 +17,19 @@
 	  <div class="collapse navbar-collapse" id="navbarNav">
 	    <ul class="navbar-nav">
 	      <li class="nav-item  active">
-	        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span> </a>
+	        <a class="nav-link" href="{% url 'HomePage' %}">Home <span class="sr-only">(current)</span> </a>
 	      </li>
 	      <li class="nav-item">
-	        <a class="nav-link" href="#">Fixture</a>
+	        <a class="nav-link" href="{% url 'DailyFix' %}">Fixture</a>
 	      </li>
 	      <li class="nav-item">
-	        <a class="nav-link" href="#">Results</a>
+	        <a class="nav-link" href="{% url 'pred' %}">Prediction</a>
 	      </li>
 	      <li class="nav-item">
-	        <a class="nav-link " href="#">Point Table</a>
+	        <a class="nav-link " href="{% url 'fRec' %}">FIFA Records</a>
 	      </li>
 	      <li class="nav-item">
-	        <a class="nav-link " href="#">Stats</a>
+	        <a class="nav-link " href="{% url 'pRec' %}">Players Records</a>
 	      </li>
 	    </ul>
 	  </div>

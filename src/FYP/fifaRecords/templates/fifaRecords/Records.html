@@ -2,6 +2,13 @@
 {% load static %}
 
 {% block content %}
+	<script>
+		function blackdiv(){
+			blackDiv = document.querySelector("#black");
+			blackDiv.hidden = true;
+		}
+	</script>
+	
     <style>
         .y{
             width:150px;
@@ -9,6 +16,7 @@
             padding:30px;
             text-indent: -9000px;
             margin:3px;
+			font-family:ITC Avant Garde Gothic Std Demi; 
         }
         #y2018{
             background: url("{% static 'images\FIFA18.png' %}") no-repeat;
@@ -101,7 +109,7 @@
 		</div>
 	</div>
 
-    <h1 style="text-align:center;padding:10px;background:rgba(0,0,0,0.8);color:#fff;font-weight:bold;border-radius:10px" >FIFA WORLD CUP RECORDS</h1>
+    <h1>FIFA WORLD CUP RECORDS</h1>
     <div id="session">
         <form style="width:100%;" action="" method="POST">
             {% csrf_token %}
@@ -110,11 +118,11 @@
             {% endfor %}
         </form> 
     </div>
-    <h1 id="iWantToScrollHere" name="iWantToScrollHere" style="text-indent: -9999px;padding-top:10px">Abbas</h1>
+    <h3 id="iWantToScrollHere" name="iWantToScrollHere" style="text-indent: -9999px;padding-top:10px"></h3>
     {% if s == "None" %}
-        <h1 style="text-align:center;padding:10px;background:rgba(0,0,0,0.8);color:#fff;font-weight:bold;border-radius:10px" >Please Select Session</h1>
+        <h2 style="text-align:center" >Please Select Session</h2>
     {% else %}
-    <h1 style="text-align:center;padding:10px;background:rgba(0,0,0,0.8);color:#fff;font-weight:bold;border-radius:10px" >{{ s }}</h1>
+    <h2 style="text-align:center" >{{ s }}</h2>
     {% endif %}
     <table class="table table-striped">
             <thead>
@@ -201,10 +209,7 @@
 		}
 	});
 	
-	function blackdiv(){
-			blackDiv = document.querySelector("#black");
-			blackDiv.hidden = true;
-		}
+
 	</script>
 	
 {% endblock content %}  
