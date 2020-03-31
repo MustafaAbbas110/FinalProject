@@ -1,9 +1,9 @@
 from django.shortcuts import render
-#from Home import NewsScraping
+from Home import NewsScraping
 from Home import models
 
 #-- News Data Collection --#
-#NewsScraping.NewsCollection()
+NewsScraping.NewsCollection()
 NewsData = models.NewsFeed.objects.all()
 
 

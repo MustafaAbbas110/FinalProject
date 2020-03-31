@@ -4,9 +4,9 @@ from time import ctime
 from fixture import models
 from fixture.models import schedule
 
-time = ctime()[11:16] == "01:00"
+#time = ctime()[11:16] == "01:00"
 
-if(False):
+if(True):
 	rows = schedule.objects.all()
 	for row in rows:
 		row.delete()

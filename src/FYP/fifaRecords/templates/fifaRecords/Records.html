@@ -157,59 +157,57 @@
 	
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.js"></script>
 	<script>
-	var x = []
-	x.push( "{{winner.0}}" );
-	x.push( "{{winner.1}}" );
-	x.push( "{{winner.2}}" );
-	x.push( "{{winner.3}}" );
-	x.push( "{{winner.4}}" );
-	x.push( "{{winner.5}}" );
-	x.push( "{{winner.6}}" );
-	x.push( "{{winner.7}}" );
-	var y = {{ goals }};
-	var ctx = document.getElementById('myChart').getContext('2d');
-	var myChart = new Chart(ctx, {
-		type: 'bar',
-		data: {
-			labels: x,
-			datasets: [{
-				label: ' {{ s }} FIFA WorldCup Winners',
-				data: y,	
-				backgroundColor: [
-                'rgba(255, 99, 132, 0.2)',
-                'rgba(54, 162, 235, 0.2)',
-                'rgba(255, 206, 86, 0.2)',
-                'rgba(75, 192, 192, 0.2)',
-                'rgba(153, 102, 255, 0.2)',
-                'rgba(255, 159, 64, 0.2)',
-				'rgba(255, 99, 132, 0.2)',
-                'rgba(54, 162, 235, 0.2)'
-				],
-				borderColor: [
-					'rgba(255, 99, 132, 1)',
-					'rgba(54, 162, 235, 1)',
-					'rgba(255, 206, 86, 1)',
-					'rgba(75, 192, 192, 1)',
-					'rgba(153, 102, 255, 1)',
-					'rgba(255, 159, 64, 1)',
-					'rgba(255, 99, 132, 1)',
-					'rgba(54, 162, 235, 1)'
-				],
-				borderWidth: 1
-			}]
-		},
-		options: {
-			scales: {
-				yAxes: [{
-					ticks: {
-						beginAtZero: true
-					}
+		var x = []
+		x.push( "{{winner.0}}" );
+		x.push( "{{winner.1}}" );
+		x.push( "{{winner.2}}" );
+		x.push( "{{winner.3}}" );
+		x.push( "{{winner.4}}" );
+		x.push( "{{winner.5}}" );
+		x.push( "{{winner.6}}" );
+		x.push( "{{winner.7}}" );
+		var y = {{ goals }};
+		var ctx = document.getElementById('myChart').getContext('2d');
+		var myChart = new Chart(ctx, {
+			type: 'polarArea',
+			data: {
+				labels: x,
+				datasets: [{
+					label: ' {{ s }} FIFA WorldCup Winners',
+					data: y,	
+					backgroundColor: [
+					'rgba(255, 99, 132, 0.2)',
+					'rgba(54, 162, 235, 0.2)',
+					'rgba(255, 206, 86, 0.2)',
+					'rgba(75, 192, 192, 0.2)',
+					'rgba(153, 102, 255, 0.2)',
+					'rgba(255, 159, 64, 0.2)',
+					'rgba(255, 99, 132, 0.2)',
+					'rgba(54, 162, 235, 0.2)'
+					],
+					borderColor: [
+						'rgba(255, 99, 132, 1)',
+						'rgba(54, 162, 235, 1)',
+						'rgba(255, 206, 86, 1)',
+						'rgba(75, 192, 192, 1)',
+						'rgba(153, 102, 255, 1)',
+						'rgba(255, 159, 64, 1)',
+						'rgba(255, 99, 132, 1)',
+						'rgba(54, 162, 235, 1)'
+					],
+					borderWidth: 1
 				}]
-			}
-		}
-	});
-	
-
+			},
+			/*options: {
+				scales: {
+					yAxes: [{
+						ticks: {
+							beginAtZero: true
+						}
+					}]
+				}
+			}*/
+		});
 	</script>
 	
 {% endblock content %}  

@@ -2,8 +2,16 @@
 {% load static %}
 
 {% block content %}
-	
+			
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.js"></script>
+		
+		<form style="width:550px; margin:0 auto;" action="" method="POST">
+            {% csrf_token %}
+               <input id="LogisticRegression" type="Submit" name="Submit" value="Prediction 1"/>
+			   <input id="DecisionTreeClassifier" type="Submit" name="Submit" value="Prediction 2"/>
+			   <input id="RandomForestClassifier" type="Submit" name="Submit" value="Prediction 3"/>
+        </form> 
+		
 		<h1 style="text-align:center;">Group Stage</h1>
 		{% for i in data %}
 			{% if forloop.counter == 49 %}
@@ -53,6 +61,8 @@
 					type: 'pie',
 					data: data,
 				});
+				
+				
 			</script>
 		{% endfor %}
 

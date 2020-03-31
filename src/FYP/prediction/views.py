@@ -3,23 +3,31 @@ from prediction import predic
 from sklearn.linear_model import LogisticRegression
 from sklearn.tree  import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.naive_bayes import GaussianNB
-from sklearn.calibration import CalibratedClassifierCV
-from sklearn.svm import LinearSVC
+
 
 
 
 data=predic.ModelSelection(RandomForestClassifier)
 
 
+
+
 def matchPred(request):	
 	'''
+	data=predic.ModelSelection(RandomForestClassifier)
+	MLmodel = None
 	try:
 		MLmodel = str(request.POST.get('Submit'))
-		data = predic.ModelPass(MLmodel)
+		if(MLmodel == None):
+			raise ValueError("Erorr")
+		if(MLmodel == "LogisticRegression"):
+			data = data1
+		elif(MLmodel == "RandomForestClassifier"):
+			data = data2
 	except:	
-		data = predic.ModelPass(RandomForestClassifier)
+		data = data2
 	'''
+	
 	context={
 		"data":data,
 	}
